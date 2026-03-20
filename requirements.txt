@@ -7,3 +7,6 @@ selenium
 webdriver-manager
 Pillow
 requests
+scikit-learn
+numpy
+python-pptx
